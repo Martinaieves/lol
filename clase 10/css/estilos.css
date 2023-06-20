@@ -1,0 +1,16 @@
+h1 {text-align: center;
+    color: #e63946
+}
+.caja{
+    margin: 50px auto;
+    width: 100px;
+    padding: 10px;
+    color:white;
+    height: 50%; 
+    text-align: center;
+    font-size: 10px;
+}
+
+.rojo{
+    background-color: crimson;
+}
